@@ -5,5 +5,5 @@ print(4+4)
 print("comit a main protected")
 print("ya mismo se vota")
 
-#? funcion buena desconocida
+#!Prueba seria modificada
 print("funcion")
