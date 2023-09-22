@@ -1,7 +1,7 @@
 print("Hola mundo")
 print(4+4)
 
-#!commi
+#!commi al main sin proteger
 print("comit a main protected")
 print("ya mismo se vota")
 print("ahora para merge se requiere de dos personas en teoria :p")
