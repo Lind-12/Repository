@@ -5,3 +5,4 @@ print(4+4)
 print("comit a main protected")
 print("ya mismo se vota")
 #TODO funcion desconocida no hace nada xd
+#TODO a la final no hizo nada :p
