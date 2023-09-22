@@ -4,5 +4,5 @@ print(4+4)
 #!commi al main sin proteger
 print("comit a main protected")
 print("ya mismo se vota")
-#TODO funcion desconocida no hace nada xd
-#TODO a la final no hizo nada :p
+
+#? Ahora el owner deve verificar para merge al main
