@@ -5,4 +5,4 @@ print(4+4)
 print("comit a main protected")
 print("ya mismo se vota")
 
-#? Ahora el owner deve verificar para merge al main
+#? funcion buena desconocida
