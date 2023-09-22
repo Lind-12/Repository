@@ -6,3 +6,4 @@ print("comit a main protected")
 print("ya mismo se vota")
 
 #? funcion buena desconocida
+print("funcion")
